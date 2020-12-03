@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://suchyw0w.vercel.app/api/spotify-playing" alt="Suchy spotify now playing" width="350" />](https://open.spotify.com/user/21diabptj3tpzrc5umwmuatbq)
+[<img src="https://suchy.vercel.app/api/spotify-playing" alt="Suchy spotify now playing" width="350" />](https://open.spotify.com/user/21diabptj3tpzrc5umwmuatbq)
 
 ### Connect with me:
 
