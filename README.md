@@ -38,8 +38,6 @@
 <br />
 <br />
 
----
-
 [website]: https://ondrej-suchanek.eu
 [twitter]: https://twitter.com/?
 [youtube]: https://www.youtube.com/channel/UC6oZw0fwIa5DJK91q5GoueA
