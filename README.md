@@ -6,10 +6,6 @@
 - 🥅 2021 Goals: Learn everything 🤣
 - ⚡ Fun fact: I am lazy af | Trying to do something with it
 
-### Spotify Playing 🎧
-
-[<img src="https://suchy.vercel.app/api/spotify-playing" alt="Suchy spotify now playing" width="350" />](https://open.spotify.com/user/21diabptj3tpzrc5umwmuatbq)
-
 ### Connect with me:
 
 [<img align="left" alt="ondrej-suchanek.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
