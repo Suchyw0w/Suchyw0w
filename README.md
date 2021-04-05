@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn everything 🤣
 - ⚡ Fun fact: I am lazy af | Trying to do something with it
+- ⚡ I am retarded cuz somehow i made 460 commits but it should be like 80
 
 ### Connect with me:
 
