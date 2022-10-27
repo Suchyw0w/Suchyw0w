@@ -23,9 +23,9 @@
 
 ---
 
-### 📕 SOCIALS (is in progress)
+### 📕 SOCIALS
 
-- [BLOG](https://learniit.cz)
+- [BLOG](https://learniit.cz) - In progress
 - [Twitter](https://twitter.com/suchycak)
 - [Instagram](https://www.instagram.com/suchy.py/)
 - [LinkedIn](https://www.linkedin.com/in/ond%C5%99ej-such%C3%A1nek-989186251/)
