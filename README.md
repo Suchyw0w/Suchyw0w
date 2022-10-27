@@ -23,16 +23,11 @@
 
 ---
 
-### 📕 BLOG (is in progress)
+### 📕 SOCIALS (is in progress)
 
-➡️ [learniit.cz](https://learniit.cz)
-
+➡️ [BLOG](https://learniit.cz)
+➡️ [Twitter](https://twitter.com/suchycak)
+➡️ [Instagram](https://www.instagram.com/suchy.py/)
+➡️ [LinkedIn](https://www.linkedin.com/in/ond%C5%99ej-such%C3%A1nek-989186251/)
+➡️ [Spotify Playlist](https://open.spotify.com/playlist/0ppEAVYk0j7qc2xeGd9K7k?si=feb168fc805a4a16)
 ---
-
-
-
-[website]: https://learniit.cz
-[twitter]: https://twitter.com/suchycak
-[instagram]: https://www.instagram.com/suchy.py/
-[linkedin]: https://www.linkedin.com/in/ond%C5%99ej-such%C3%A1nek-989186251/
-[spotify playlist]: https://open.spotify.com/playlist/0ppEAVYk0j7qc2xeGd9K7k?si=feb168fc805a4a16
