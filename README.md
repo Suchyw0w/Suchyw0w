@@ -6,7 +6,7 @@
 - 🥅 2022/3 Make it to 42prague and start coding like crazy
 - ⚡ Fun fact: I am lazy, trying to do something with it
 
-
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -20,8 +20,8 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
 <br />
-<br />
 
+---
 ---
 
 ### 📕 BLOG (is in progress)
