@@ -22,7 +22,6 @@
 <br />
 
 ---
----
 
 ### 📕 BLOG (is in progress)
 
