@@ -3,7 +3,7 @@
 ## I'm a Student and Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022/3 Make it to 42prague and start coding like crazy
+- 🥅 2023 Starting journey at 42 Prague 🥳
 - ⚡ Fun fact: I am lazy, trying to do something with it
 
 ---
