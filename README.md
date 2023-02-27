@@ -30,6 +30,8 @@
 [![osuchane's 42 stats](https://badge42.vercel.app/api/v2/clcyuunjv00110fjyswiizw2b/stats?cursusId=21&coalitionId=314)](https://github.com/JaeSeoKim/badge42)
 ---
 
+![](https://komarev.com/ghpvc/?username=Suchyw0w&color=blueviolet)
+
 ### 📕 SOCIALS
 
 - [BLOG](https://learniit.cz) - In progress
