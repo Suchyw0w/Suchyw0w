@@ -8,6 +8,7 @@
 - Collaborated in **team-based projects** following peer-learning methodology 
 
 ## 🚀 Featured Projects
+- [FT_Transcendence](https://github.com/Suchyw0w/ft_trans_v2) – Last project of common core - Web app with 42API and PONG game
 - [CUB3D](https://github.com/Suchyw0w/cub3d) – Dynamic view inside a maze, where you will have to find your way
 - [Minitalk](https://github.com/Suchyw0w/42-prague-core/tree/master/minitalk) – The purpose of this project is to code a small data exchange program using UNIX signals.
 - [ft_transcendence](https://github.com/Suchyw0w/ft_trans_v2) – Multilingual SPA with JWT auth & social login and PONG game
